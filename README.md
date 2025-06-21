@@ -24,7 +24,9 @@ Enquanto isso tenho desenvolvido projetos em meus cursos na DIO e Curso em Víde
 
 ## 🏅 Certificações:
 
-- **Bootcamp GFT Lógica de Programação** - DIO
+- [**Bootcamp GFT Lógica de Programação** - DIO]
+- [Curso DevQuest Incial(HTML, CSS, JS) - DevEmDobro](https://github.com/user-attachments/assets/c40a8fec-1d93-44b9-bfd3-b15d8f7b3304)
+
 
 <!--
 **marcosvlsdev/marcosvlsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
