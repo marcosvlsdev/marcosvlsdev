@@ -24,8 +24,8 @@ Enquanto isso tenho desenvolvido projetos em meus cursos na DIO e Curso em Víde
 
 ## 🏅 Certificações:
 
-- **Bootcamp GFT Lógica de Programação** - DIO
-- [**Formação JavaScript Developer** - DIO]([https://github.com/user-attachments/assets/c40a8fec-1d93-44b9-bfd3-b15d8f7b3304](https://www.dio.me/certificate/VUY8AZZK/share))
+- [**GFT Start #6 - Lógica de Programação** - DIO](https://www.dio.me/certificate/JT7DWTYW/share)
+- [**Formação JavaScript Developer** - DIO](https://www.dio.me/certificate/VUY8AZZK/share)
 - [**Curso DevQuest Incial(HTML, CSS, JS)** - DevEmDobro](https://github.com/user-attachments/assets/c40a8fec-1d93-44b9-bfd3-b15d8f7b3304)
 
 
