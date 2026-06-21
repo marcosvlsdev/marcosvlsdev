@@ -4,13 +4,13 @@ Eu sou ***Desenvolvedor Front-End*** e possuo 18 anos
 
 ## Sobre mim:
 
-Moro em Santo André no estado de São Paulo, atualmente estou terminando o ensino médio com a pretensão de ingressar em alguma faculade pública, ou até mesmo particular, com o curso de Ciência da Computação.
+Moro em Santo André no estado de São Paulo, e estou cursando na Universidade Federal do ABC (UFABC).
 
 ## No momento:
-Enquanto isso tenho desenvolvido projetos em meus cursos na DIO e Curso em Vídeo, além disso, possuo uma mini empresa com meus amigos chamada [LaboratórioDev](https://www.instagram.com/devlaboratorio/), a qual é focada na criação de sites e deisgns com o objetivo de crescer a visibiliade das empresas no ramo digital.
+Enquanto isso tenho desenvolvido projetos em meus cursos na DIO e Curso em Vídeo, além disso, possuo uma empresa chamada CodeWork, a qual é focada na criação de sites e deisgns com o objetivo de crescer a visibiliade das empresas no ramo digital.
 
 ### Meus perfis:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcosviniciusleite08/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-983478361/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vls.marcos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcosviniciusleite08@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcosviniciusleite08/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-983478361/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcosviniciusleite08@gmail.com)
 
 ### Hard Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
