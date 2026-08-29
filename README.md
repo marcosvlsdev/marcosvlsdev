@@ -7,18 +7,16 @@ Eu sou ***Desenvolvedor Front-End*** e possuo 18 anos
 Moro em Santo André no estado de São Paulo, e estou cursando na Universidade Federal do ABC (UFABC).
 
 ## No momento:
-Enquanto isso tenho desenvolvido projetos em meus cursos na DIO e Curso em Vídeo, além disso, possuo uma empresa chamada CodeWork, a qual é focada na criação de sites e deisgns com o objetivo de crescer a visibiliade das empresas no ramo digital.
-
+Enquanto isso tenho desenvolvido projetos, sendo o foco sistemas para empresas e aprendendo na faculdade, em meus cursos na DIO e Curso em Vídeo.
 ### Meus perfis:
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcosviniciusleite08/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-983478361/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcosviniciusleite08@gmail.com)
 
 ### Hard Skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Ferramentas:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosvlsdev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosvlsdev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🏅 Certificações:
 
